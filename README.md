@@ -18,6 +18,7 @@ JetAuto solves this. It’s a high-performance, Jetson-powered robot car enginee
 ### ✨Core Capabilities at a Glance
 
 JetAuto is built to tackle the core challenges of modern autonomous systems:
+
 🧠 Jetson-Powered AI Edge: Choose from Jetson Nano, Orin Nano, or Orin NX as the brain. Fully compatible with ROS 1 & ROS 2, and accelerated by TensorRT for real-time deep learning inference.
 
 🗺️ Professional-Grade Navigation: Achieve precise autonomy with sensor fusion. Use LiDAR with algorithms (gmapping, cartographer) for 2D SLAM, and the 3D depth camera for RTAB-Map-based 3D mapping and point cloud processing.
