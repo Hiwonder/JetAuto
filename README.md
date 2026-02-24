@@ -7,11 +7,14 @@ English | [中文](README_cn.md)
 </p>
 
 ## Product Overview
+
 ###🚀 Why JetAuto Exists
+
 Navigating the gap between robotics theory and tangible, intelligent systems is hard. Simulators lack physical feedback, while building a capable robot from scratch is a massive undertaking.
 
 JetAuto solves this. It’s a high-performance, Jetson-powered robot car engineered from the ground up for ROS-based development and Embodied AI research. We’ve integrated the essential sensors—LiDAR, 3D depth camera, microphone array—and the computational power of NVIDIA Jetson into a robust Mecanum-wheel chassis. This isn't just a kit; it's a complete, open-platform research vehicle designed to transform your algorithms for navigation, vision, and interaction from code into real-world action.
 ###✨ Core Capabilities at a Glance
+
 JetAuto is built to tackle the core challenges of modern autonomous systems:
 🧠 Jetson-Powered AI Edge: Choose from Jetson Nano, Orin Nano, or Orin NX as the brain. Fully compatible with ROS 1 & ROS 2, and accelerated by TensorRT for real-time deep learning inference.
 
@@ -23,6 +26,7 @@ JetAuto is built to tackle the core challenges of modern autonomous systems:
 
 🌀 Full-Omnidirectional Mobility: The Mecanum wheel chassis allows the robot to slide laterally, rotate in place, and move in any direction without changing heading, enabling complex maneuvers in tight spaces.
 ## Demo Videos
+
 ### Your Ideas, In Action
 - **JetAuto ROS Robot Car Powered by Jetson Nano with Lidar Depth Camera Touch Screen**: [Watch](https://www.youtube.com/watch?v=vm51ssb62J4)
 - **🚀 New Release Alert! 🚀JetAuto has just dropped the Raspberry Pi 5 and Jetson Orin Nano versions!**: [Watch](https://www.youtube.com/shorts/gVZnxNP4630)
