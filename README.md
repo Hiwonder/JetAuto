@@ -3,7 +3,7 @@
 English | [中文](README_cn.md)
 
 <p align="center">
-  <img src="./sources/01.png" alt="JetAuto Logo" width="600"/>
+  <img src="./source/01.png" alt="JetAuto Logo" width="600"/>
 </p>
 
 ## Product Overview
