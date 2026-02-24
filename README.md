@@ -6,9 +6,7 @@ English | [中文](README_cn.md)
   <img src="./source/01.png" alt="JetAuto Logo" width="600"/>
 </p>
 
-## Product Overview
 
-JetAuto is an AI-powered autonomous mobile robot developed by Hiwonder, designed for NVIDIA Jetson platforms. Featuring advanced navigation, ROS integration, and intelligent control systems, JetAuto provides a powerful platform for mobile robotics research, education, and development.
 ##🚀 Why JetAuto Exists
 Navigating the gap between robotics theory and tangible, intelligent systems is hard. Simulators lack physical feedback, while building a capable robot from scratch is a massive undertaking.
 
