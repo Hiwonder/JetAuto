@@ -15,6 +15,10 @@ Navigating the gap between robotics theory and tangible, intelligent systems is 
 
 JetAuto solves this. It’s a high-performance, Jetson-powered robot car engineered from the ground up for ROS-based development and Embodied AI research. We’ve integrated the essential sensors—LiDAR, 3D depth camera, microphone array—and the computational power of NVIDIA Jetson into a robust Mecanum-wheel chassis. This isn't just a kit; it's a complete, open-platform research vehicle designed to transform your algorithms for navigation, vision, and interaction from code into real-world action.
 
+<p align="center">
+  <img src="./source/02.png" alt="JetAuto Logo" width="600"/>
+</p>
+
 ### ✨Core Capabilities at a Glance
 
 JetAuto is built to tackle the core challenges of modern autonomous systems:
@@ -28,6 +32,10 @@ JetAuto is built to tackle the core challenges of modern autonomous systems:
 🤖 Multimodal AI Interaction: Redefine human-robot interaction. The integrated 6-mic array and vision system connect to multimodal large models (like ChatGPT), enabling natural voice commands and context-aware reasoning for embodied AI applications.
 
 🌀 Full-Omnidirectional Mobility: The Mecanum wheel chassis allows the robot to slide laterally, rotate in place, and move in any direction without changing heading, enabling complex maneuvers in tight spaces.
+
+<p align="center">
+  <img src="./source/03.png" alt="JetAuto Logo" width="600"/>
+</p>
 
 ## Demo Videos
 
