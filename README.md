@@ -6,12 +6,12 @@ English | [中文](README_cn.md)
   <img src="./source/01.png" alt="JetAuto Logo" width="600"/>
 </p>
 
-
-##🚀 Why JetAuto Exists
+## Product Overview
+###🚀 Why JetAuto Exists
 Navigating the gap between robotics theory and tangible, intelligent systems is hard. Simulators lack physical feedback, while building a capable robot from scratch is a massive undertaking.
 
 JetAuto solves this. It’s a high-performance, Jetson-powered robot car engineered from the ground up for ROS-based development and Embodied AI research. We’ve integrated the essential sensors—LiDAR, 3D depth camera, microphone array—and the computational power of NVIDIA Jetson into a robust Mecanum-wheel chassis. This isn't just a kit; it's a complete, open-platform research vehicle designed to transform your algorithms for navigation, vision, and interaction from code into real-world action.
-##✨ Core Capabilities at a Glance
+###✨ Core Capabilities at a Glance
 JetAuto is built to tackle the core challenges of modern autonomous systems:
 🧠 Jetson-Powered AI Edge: Choose from Jetson Nano, Orin Nano, or Orin NX as the brain. Fully compatible with ROS 1 & ROS 2, and accelerated by TensorRT for real-time deep learning inference.
 
